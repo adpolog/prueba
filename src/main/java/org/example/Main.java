@@ -6,7 +6,7 @@ public class Main {
         
         System.out.printf("MIS CAMBIOS EN GIT!");
 
-        for (int i = 1; i <= 10; i++) {
+        for (int i = 1; i <= 5; i++) {
            
             System.out.println("i = " + i);
             System.out.println("Hola, soy Andry");
